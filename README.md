@@ -15,6 +15,6 @@
 ## `$cat ~/myprojects.txt`
 > ### [GPK](https://github.com/h0ru/gpk)
 > ### [AMSI-Reaper](https://github.com/h0ru/AMSI-Reaper)
-> ### [ICMP Qu1ck-H4cks](https://github.com/h0ru/icmp-quickhacks)]
+> ### [ICMP Qu1ck-H4cks](https://github.com/h0ru/icmp-quickhacks)
 
 - - -
