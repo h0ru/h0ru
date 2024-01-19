@@ -1,16 +1,16 @@
-### Hi there 👋
+## `$whoami`
 
-<!--
-**h0ru/h0ru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![my name](https://github.com/h0ru/h0ru/assets/117091833/b03bdce9-c0a0-4c63-bf24-8d4ec9340339)
 
-Here are some ideas to get you started:
+## `$groups`
+> ### __Red Team, Blue Team, Malware Research, MalDev, Exploit Dev__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## `$find "languages"`
+> ### Bash, C#, Go, PShell, Python
+
+## `$cat ~/myprojects.txt`
+> ### [GPK](https://github.com/h0ru/gpk)
+> ### [AMSI-Reaper](https://github.com/h0ru/AMSI-Reaper)
+> ### [ICMP Qu1ck-H4cks](https://github.com/h0ru/icmp-quickhacks)]
+
+- - -
