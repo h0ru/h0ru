@@ -1,3 +1,7 @@
+![playground](https://github.com/h0ru/h0ru/assets/117091833/17728e77-b30f-4585-a1fa-fa94a7be0c98)
+
+- - -
+
 ## `$whoami`
 
 > ![my name](https://github.com/h0ru/h0ru/assets/117091833/b03bdce9-c0a0-4c63-bf24-8d4ec9340339)
